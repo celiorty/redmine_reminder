@@ -1,3 +1,7 @@
+# This plugin is a fork from Рестрим and modified by Redmineplugincn
+https://github.com/Restream/redmine_reminder
+https://www.redmineplugins.cn/projects/1/plugin_blocks/90?tab=general
+
 # Advanced Redmine Notifications
 
 [![Build Status](https://travis-ci.org/Restream/redmine_reminder.svg?branch=master)](https://travis-ci.org/Restream/redmine_reminder)
